@@ -1,0 +1,7 @@
+numpy
+scipy
+opencv-python
+imutils
+mediapipe
+# Optional (preferred backend when allowed by OS policy):
+# dlib
